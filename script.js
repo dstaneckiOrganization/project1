@@ -1,3 +1,3 @@
 function displayMessage() {
-	alert("Thank you.");
+	alert("Submitted! We will contact you via email.");
 }
